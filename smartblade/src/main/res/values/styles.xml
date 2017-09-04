@@ -1,0 +1,22 @@
+<resources>
+
+
+    <!--style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+
+    </style-->
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.NoActionBar">
+
+    </style>
+
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+        <!-- Hint color and label color in FALSE state -->
+        <item name="android:textColorHint">@color/sb_white</item>
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+        <item name="colorAccent">@color/sb_white</item>
+        <item name="colorControlNormal">@color/sb_white</item>
+        <item name="colorControlActivated">@color/sb_white</item>
+    </style>
+
+
+</resources>

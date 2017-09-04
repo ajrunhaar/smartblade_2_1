@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imagebutton_camera" type="id"/>
+    <item name="imagebutton_video" type="id"/>
+    <item name="imagebutton_message" type="id"/>
+    <item name="imagebutton_phone" type="id"/>
+    <item name="imagebutton_more" type="id"/>
+    <item name="imagebutton_close" type="id"/>
+    <item name="imagebutton_user" type="id"/>
+    <item name="imagebutton_settings" type="id"/>
+    <item name="imagebutton_gallery" type="id"/>
+    <item name="imagebutton_rotateleft" type="id"/>
+    <item name="imagebutton_rotateright" type="id"/>
+    <item name="imagebutton_arrowleft" type="id"/>
+    <item name="imagebutton_arrowdown" type="id"/>
+    <item name="imagebutton_arrowright" type="id"/>
+</resources>
